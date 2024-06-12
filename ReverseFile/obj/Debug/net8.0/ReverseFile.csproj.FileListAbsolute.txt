@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\bin\Debug\net8.0\ReverseFile.exe
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\bin\Debug\net8.0\ReverseFile.deps.json
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\bin\Debug\net8.0\ReverseFile.runtimeconfig.json
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\bin\Debug\net8.0\ReverseFile.dll
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\bin\Debug\net8.0\ReverseFile.pdb
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.AssemblyInfo.cs
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.dll
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\refint\ReverseFile.dll
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.pdb
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ReverseFile.genruntimeconfig.cache
+C:\Users\maxim\source\repos\ReverseFile\ReverseFile\obj\Debug\net8.0\ref\ReverseFile.dll
